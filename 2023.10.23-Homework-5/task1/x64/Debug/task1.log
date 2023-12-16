@@ -1,0 +1,15 @@
+﻿  Source.cpp
+C:\Users\Admin\Desktop\Goose\giga-duck\programming-c-2023-autumn\2023.10.23-Homework-5\task1\Source.cpp(74,21): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+C:\Users\Admin\Desktop\Goose\giga-duck\programming-c-2023-autumn\2023.10.23-Homework-5\task1\Source.cpp(117): message : see reference to function template instantiation 'void QuickSortDo<int[19],std::greater<void>>(obj (&),comp)' being compiled
+          with
+          [
+              obj=int [19],
+              comp=std::greater<void>
+          ]
+C:\Users\Admin\Desktop\Goose\giga-duck\programming-c-2023-autumn\2023.10.23-Homework-5\task1\Source.cpp(85,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Admin\Desktop\Goose\giga-duck\programming-c-2023-autumn\2023.10.23-Homework-5\task1\Source.cpp(124): message : see reference to function template instantiation 'void QuickSortDo<int,std::greater<void>>(std::vector<int,std::allocator<int>> &,comp)' being compiled
+          with
+          [
+              comp=std::greater<void>
+          ]
+  task1.vcxproj -> C:\Users\Admin\Desktop\Goose\giga-duck\programming-c-2023-autumn\2023.10.23-Homework-5\x64\Debug\task1.exe
